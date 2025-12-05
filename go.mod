@@ -8,13 +8,14 @@ require (
 	github.com/golang/protobuf v1.3.1
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/klauspost/compress v1.10.8
+	github.com/kr/pretty v0.3.1 // indirect
 	github.com/pierrec/lz4 v2.0.5+incompatible
 	github.com/pkg/errors v0.8.1
-	github.com/sirupsen/logrus v1.4.1
+	github.com/sirupsen/logrus v1.8.3
 	github.com/spaolacci/murmur3 v1.1.0
 	github.com/spf13/cobra v0.0.3
 	github.com/spf13/pflag v1.0.3 // indirect
-	github.com/stretchr/testify v1.4.0
-	github.com/yahoo/athenz v1.8.55
+	github.com/stretchr/testify v1.7.0
 	github.com/valyala/gozstd v1.7.0
+	github.com/yahoo/athenz v1.8.55
 )
